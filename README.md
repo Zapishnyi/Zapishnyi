@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zapishnyi
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me ... zapishny@ukr.net
+Hi, my name Kostiantyn
+- 👀 I’m Front-End Developer, interested in Full Stack development skills
+- 🌱 I’m currently admire of JavaScript, looking forward to learn Node.js and React.
+- 📫  You may easily contact me via zapishny@ukr.net
 
 <!---
 Zapishnyi/Zapishnyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
