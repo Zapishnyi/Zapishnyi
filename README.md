@@ -1,6 +1,6 @@
 Hi, my name Kostiantyn
 - 👀 I’m Front-End Developer, interested in Full Stack development skills
-- 🌱 I’m currently admire of JavaScript, looking forward to learn Node.js and React.
+- 🌱 I’m currently admire of JavaScript.
 - 📫  You may easily contact me via zapishny@ukr.net
 
 <!---
