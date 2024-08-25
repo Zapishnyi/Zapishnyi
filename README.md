@@ -1,5 +1,5 @@
 Hi, my name Kostiantyn
-- 👀 I’m Front-End Developer, interested in Full Stack development skills
+- 👀 I’m Full-Stack Developer.
 - 📫  You may easily contact me via zapishny@ukr.net
 
 <!---
